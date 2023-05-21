@@ -3,7 +3,7 @@ package candidate
 import (
 	"context"
 	"fmt"
-	"homework-7/apps/cli/controllers/candidate"
+	"golang-crud/apps/cli/controllers/candidate"
 	"os"
 )
 

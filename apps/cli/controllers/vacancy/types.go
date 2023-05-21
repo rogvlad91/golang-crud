@@ -2,7 +2,7 @@ package vacancy
 
 import (
 	"context"
-	"homework-7/internal/svc/vacancies"
+	"golang-crud/internal/svc/vacancies"
 )
 
 type VacanciesController struct {

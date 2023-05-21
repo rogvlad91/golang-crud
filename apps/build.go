@@ -3,8 +3,8 @@ package apps
 import (
 	"context"
 	"github.com/bradfitz/gomemcache/memcache"
-	"homework-7/pkg/db/memcached"
-	db "homework-7/pkg/db/pg"
+	"golang-crud/pkg/db/memcached"
+	db "golang-crud/pkg/db/pg"
 	"log"
 )
 

@@ -2,7 +2,7 @@ package candidate
 
 import (
 	"context"
-	"homework-7/internal/svc/candidates"
+	"golang-crud/internal/svc/candidates"
 )
 
 type CandidatesController struct {

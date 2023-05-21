@@ -6,7 +6,7 @@ package test
 import (
 	"context"
 	"github.com/stretchr/testify/assert"
-	"homework-7/internal/svc/candidates/repo/pg"
+	"golang-crud/internal/svc/candidates/repo/pg"
 	"testing"
 	"time"
 )

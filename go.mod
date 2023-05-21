@@ -1,4 +1,4 @@
-module homework-7
+module golang-crud
 
 go 1.19
 

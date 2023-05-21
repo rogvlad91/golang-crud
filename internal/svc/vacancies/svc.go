@@ -3,7 +3,7 @@ package vacancies
 import (
 	"context"
 	"github.com/gofrs/uuid"
-	"homework-7/internal/svc/vacancies/repo/pg"
+	"golang-crud/internal/svc/vacancies/repo/pg"
 	"time"
 )
 

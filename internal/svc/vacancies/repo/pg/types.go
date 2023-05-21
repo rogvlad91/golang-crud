@@ -2,7 +2,7 @@ package pg
 
 import (
 	"context"
-	db "homework-7/pkg/db/pg"
+	db "golang-crud/pkg/db/pg"
 	"time"
 )
 

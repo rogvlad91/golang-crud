@@ -4,8 +4,8 @@ package vacancies
 
 import (
 	"context"
-	"homework-7/internal/svc/vacancies/repo/memcached"
-	"homework-7/internal/svc/vacancies/repo/pg"
+	"golang-crud/internal/svc/vacancies/repo/memcached"
+	"golang-crud/internal/svc/vacancies/repo/pg"
 	"time"
 )
 

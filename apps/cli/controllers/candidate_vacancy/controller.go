@@ -4,7 +4,7 @@ import (
 	"context"
 	"encoding/json"
 	"fmt"
-	"homework-7/internal/svc/candidate_vacancies"
+	"golang-crud/internal/svc/candidate_vacancies"
 )
 
 func (c CandidateVacancyController) Create(ctx context.Context, vacancyId string, candidateId string) error {

@@ -2,7 +2,7 @@ package candidates
 
 import (
 	"context"
-	"homework-7/internal/svc/candidates/repo/memcached"
+	"golang-crud/internal/svc/candidates/repo/memcached"
 )
 
 func (s CacheCandidateSvc) Create(ctx context.Context, createDTO CreateCandidateDTO) (string, error) {

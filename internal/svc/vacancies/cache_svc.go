@@ -2,7 +2,7 @@ package vacancies
 
 import (
 	"context"
-	"homework-7/internal/svc/vacancies/repo/memcached"
+	"golang-crud/internal/svc/vacancies/repo/memcached"
 )
 
 func (s CacheVacancySvc) Create(ctx context.Context, createDTO CreateVacancyDto) (string, error) {

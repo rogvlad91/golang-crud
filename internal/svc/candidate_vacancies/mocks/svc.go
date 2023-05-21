@@ -6,7 +6,7 @@ package mock_candidate_vacancy_svc
 
 import (
 	context "context"
-	candidate_vacancies "homework-7/internal/svc/candidate_vacancies"
+	candidate_vacancies "golang-crud/internal/svc/candidate_vacancies"
 	reflect "reflect"
 
 	gomock "github.com/golang/mock/gomock"

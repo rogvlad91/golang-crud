@@ -4,8 +4,8 @@ package candidates
 
 import (
 	"context"
-	"homework-7/internal/svc/candidates/repo/memcached"
-	"homework-7/internal/svc/candidates/repo/pg"
+	"golang-crud/internal/svc/candidates/repo/memcached"
+	"golang-crud/internal/svc/candidates/repo/pg"
 )
 
 type Candidate struct {

@@ -3,8 +3,8 @@ package candidate_vacancies_controller
 import (
 	"encoding/json"
 	"errors"
-	"homework-7/internal/svc/candidate_vacancies"
-	"homework-7/internal/svc/candidate_vacancies/repo/pg"
+	"golang-crud/internal/svc/candidate_vacancies"
+	"golang-crud/internal/svc/candidate_vacancies/repo/pg"
 	"net/http"
 )
 

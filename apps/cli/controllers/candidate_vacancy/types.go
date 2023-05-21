@@ -2,9 +2,9 @@ package candidate_vacancy
 
 import (
 	"context"
-	"homework-7/internal/svc/candidate_vacancies"
-	"homework-7/internal/svc/candidates"
-	"homework-7/internal/svc/vacancies"
+	"golang-crud/internal/svc/candidate_vacancies"
+	"golang-crud/internal/svc/candidates"
+	"golang-crud/internal/svc/vacancies"
 )
 
 type CandidateVacancyController struct {

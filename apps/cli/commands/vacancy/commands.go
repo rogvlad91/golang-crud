@@ -3,7 +3,7 @@ package vacancy
 import (
 	"context"
 	"fmt"
-	"homework-7/apps/cli/controllers/vacancy"
+	"golang-crud/apps/cli/controllers/vacancy"
 	"os"
 )
 

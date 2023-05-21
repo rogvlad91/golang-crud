@@ -2,7 +2,7 @@ package main
 
 import (
 	"context"
-	"homework-7/apps/cli"
+	"golang-crud/apps/cli"
 )
 
 func main() {

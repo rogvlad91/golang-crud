@@ -2,7 +2,7 @@ package candidate_controller
 
 import (
 	"github.com/golang/mock/gomock"
-	mockcandidatesvc "homework-7/internal/svc/candidates/mocks"
+	mockcandidatesvc "golang-crud/internal/svc/candidates/mocks"
 	"testing"
 )
 

@@ -5,7 +5,7 @@ package test
 
 import (
 	"context"
-	"homework-7/test/postgres"
+	"golang-crud/test/postgres"
 )
 
 var Database *postgres.TDB

@@ -3,7 +3,7 @@ package candidates
 import (
 	"context"
 	"github.com/gofrs/uuid"
-	"homework-7/internal/svc/candidates/repo/pg"
+	"golang-crud/internal/svc/candidates/repo/pg"
 	"time"
 )
 

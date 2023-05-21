@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"github.com/golang/mock/gomock"
 	"github.com/stretchr/testify/assert"
-	"homework-7/internal/svc/candidate_vacancies/repo/pg"
+	"golang-crud/internal/svc/candidate_vacancies/repo/pg"
 	"net/http"
 	"net/http/httptest"
 	"strings"

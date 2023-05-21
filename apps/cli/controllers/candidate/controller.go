@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"homework-7/internal/svc/candidates"
+	"golang-crud/internal/svc/candidates"
 	"strconv"
 )
 

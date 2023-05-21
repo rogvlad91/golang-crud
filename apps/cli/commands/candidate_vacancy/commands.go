@@ -3,7 +3,7 @@ package candidate_vacancy
 import (
 	"context"
 	"fmt"
-	candidateVacancy "homework-7/apps/cli/controllers/candidate_vacancy"
+	candidateVacancy "golang-crud/apps/cli/controllers/candidate_vacancy"
 	"os"
 )
 

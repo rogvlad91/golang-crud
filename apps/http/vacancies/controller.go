@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"errors"
 	"github.com/gorilla/mux"
-	"homework-7/internal/svc/vacancies"
-	"homework-7/internal/svc/vacancies/repo/pg"
+	"golang-crud/internal/svc/vacancies"
+	"golang-crud/internal/svc/vacancies/repo/pg"
 	"net/http"
 )
 

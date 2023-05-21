@@ -7,7 +7,7 @@ import (
 	"context"
 	"fmt"
 	"github.com/jackc/pgx/v4/pgxpool"
-	db "homework-7/pkg/db/pg"
+	db "golang-crud/pkg/db/pg"
 	"log"
 	"strings"
 	"sync"
